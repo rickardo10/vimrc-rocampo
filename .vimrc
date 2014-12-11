@@ -27,7 +27,7 @@ colorscheme desert
 set background=dark
 
 " Set utf8 as standard encoding
-set encoding=uft8
+set encoding=utf8
 
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 " => Files, backups and undo
